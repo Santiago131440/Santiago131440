@@ -13,13 +13,9 @@
 
 ## Sobre mí
 
-Soy **tecnólogo en Producción Industrial** y **Análisis y Desarrollo de Software**, con experiencia en plantas de producción y desarrollo de soluciones tecnológicas orientadas a datos, procesos y eficiencia.
-
-Me enfoco en crear sistemas claros, visuales y funcionales teniendo en cuenta tres aspectos importantes:
-
-> Simplicidad.  
-> Claridad.  
-> Impacto real.
+<p align="center">
+  <img src="https://github.com/Santiago131440/Imagenes-Comparaci-n-de-datos/blob/main/Sobre%20mi.jpg?raw=true" width="860"/>
+</p>
 
 ---
 
