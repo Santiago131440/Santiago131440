@@ -71,12 +71,14 @@ Diseñar y desarrollar soluciones web modernas, escalables y mantenibles, con ba
 
 ## Colaboraciones
 
-Me interesa colaborar en proyectos relacionados con:
+Me interesa colaborar en proyectos tecnológicos orientados al desarrollo de soluciones web modernas y escalables, con arquitecturas de backend robustas, uso intensivo de datos y automatización de procesos, integrando analítica avanzada e inteligencia artificial para optimizar operaciones, mejorar la toma de decisiones y generar valor medible en entornos reales de negocio.
 
-- Data & Analytics
-- Automatización
-- Software empresarial
-- IA aplicada a procesos reales
+Dentro de mis intereses se encuentran temas como:
+
+- Automatización de procesos y flujos de trabajo empresariales.
+- Software empresarial y aplicaciones web escalables.
+- Inteligencia Artificial aplicada a procesos reales y productivos.
+- Data & Analytics (ETL, BI, modelado y visualización de datos).
 
 ---
 
