@@ -83,7 +83,6 @@ Me interesa colaborar en proyectos relacionados con:
 ## Contacto
 
 <p align="center">
-  <a href="https://github.com/tu-usuario">GitHub</a> •
-  <a href="https://linkedin.com/in/tu-perfil">LinkedIn</a> •
-  <a href="mailto:tu@email.com">Email</a>
+  <a href="https://linkedin.com/in/santisterling">LinkedIn</a> •
+  <a href="mailto:santisterling@gmail.com">Email</a>
 </p>
