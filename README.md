@@ -21,32 +21,69 @@
 
 ## Mi enfoque
 
-- Análisis de datos y visualización (Power BI, Excel)
-- Desarrollo de software y sistemas internos
-- Optimización de procesos productivos
-- Diseño y maquetación web moderna
-- Interés activo en Inteligencia Artificial
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Desarrollo de Software  
+Sistemas internos pensados para escalar y mantenerse en el tiempo.
+
+- Aplicaciones internas
+- Automatización de procesos
+- Arquitectura limpia
+
+</td>
+<td width="50%" valign="top">
+
+### Análisis & Datos  
+Visualización clara y orientada a decisiones, priorizando simplicidad y precisión.
+
+- **Power BI**
+- **Excel avanzado**
+- Dashboards ejecutivos
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Inteligencia Artificial 
+Exploración activa y aplicación práctica de IA en soluciones reales.
+
+- Automatización inteligente  
+- Análisis predictivo  
+- Integración con sistemas existentes  
+
+</td>
+<td width="50%" valign="top">
+
+### Diseño & Web  
+Interfaces modernas, limpias y funcionales.
+
+- Maquetación web moderna
+- UI minimalista
+- Experiencia de usuario
+
+</td>
+</tr>
+
+</tr>
+</table>
+
 
 ---
 
-## Experiencia laboral
-
-- +8 años en **plantas de producción**
-- Desarrollo de sistemas de inventarios y control
-- Automatización de reportes y análisis
-- Integración entre **operación + tecnología**
-- Mentalidad práctica y orientada a resultados
-
----
 
 ## Diseño y tecnología
-
 <p align="center">
+Creo interfaces limpias, modernas y funcionales, pensadas para verse bien tanto en desktop como en móvil.
+<br>
+<br>
+
   <img src="https://github.com/Santiago131440/Imagenes-Comparaci-n-de-datos/blob/main/SterlingMusicPC2.jpg?raw=true" width="580"/>
   <img src="https://github.com/Santiago131440/Imagenes-Comparaci-n-de-datos/blob/main/SterlingMusicMovil1.jpeg?raw=true" width="180"/>
 </p>
-
-Creo interfaces limpias, modernas y funcionales, pensadas para verse bien tanto en **desktop** como en **móvil**.
 
 ---
 
@@ -67,14 +104,9 @@ Diseñar y desarrollar soluciones web modernas, escalables y mantenibles, con ba
 
 ## Colaboraciones
 
-Me interesa colaborar en proyectos tecnológicos orientados al desarrollo de soluciones web modernas y escalables, con arquitecturas de backend robustas, uso intensivo de datos y automatización de procesos, integrando analítica avanzada e inteligencia artificial para optimizar operaciones, mejorar la toma de decisiones y generar valor medible en entornos reales de negocio.
-
-Dentro de mis intereses se encuentran temas como:
-
-- Automatización de procesos y flujos de trabajo empresariales.
-- Software empresarial y aplicaciones web escalables.
-- Inteligencia Artificial aplicada a procesos reales y productivos.
-- Data & Analytics (ETL, BI, modelado y visualización de datos).
+<p align="center">
+  <img src="https://github.com/Santiago131440/Imagenes-Comparaci-n-de-datos/blob/main/Colaboraciones.jpg?raw=true" width="280"/>
+</p>
 
 ---
 
