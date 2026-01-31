@@ -11,7 +11,7 @@
 
 ---
 
-## 👋 Sobre mí
+## Sobre mí
 
 Soy **tecnólogo en Producción Industrial** y **Análisis y Desarrollo de Software**, con experiencia en plantas de producción y desarrollo de soluciones tecnológicas orientadas a datos, procesos y eficiencia.
 
@@ -55,7 +55,7 @@ Creo interfaces limpias, modernas y funcionales, pensadas para verse bien tanto 
 ---
 
 
-## 🛠 Tecnologías
+## Tecnologías
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,docker,django,tailwind"/>
@@ -63,13 +63,13 @@ Creo interfaces limpias, modernas y funcionales, pensadas para verse bien tanto 
 
 ---
 
-## 🎯 Objetivo actual
+## Objetivo actual
 
 Especializarme en **Inteligencia Artificial** y **Data-driven software**, creando soluciones modernas que conecten datos, procesos y personas.
 
 ---
 
-## 🤝 Colaboraciones
+## Colaboraciones
 
 Me interesa colaborar en proyectos relacionados con:
 
@@ -80,16 +80,10 @@ Me interesa colaborar en proyectos relacionados con:
 
 ---
 
-## 📬 Contacto
+## Contacto
 
 <p align="center">
   <a href="https://github.com/tu-usuario">GitHub</a> •
   <a href="https://linkedin.com/in/tu-perfil">LinkedIn</a> •
   <a href="mailto:tu@email.com">Email</a>
-</p>
-
----
-
-<p align="center">
-  <sub>Perfil personal — diseño inspirado en Apple 🍎</sub>
 </p>
