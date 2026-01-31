@@ -23,7 +23,7 @@ Me enfoco en crear sistemas claros, visuales y funcionales teniendo en cuenta tr
 
 ---
 
-## Mi enfoque va encaminado a:
+## Mi enfoque
 
 - Análisis de datos y visualización (Power BI, Excel)
 - Desarrollo de software y sistemas internos
