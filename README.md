@@ -85,6 +85,13 @@ Dentro de mis intereses se encuentran temas como:
 ## Contacto
 
 <p align="center">
-  <a href="https://linkedin.com/in/santisterling">LinkedIn</a> •
-  <a href="mailto:santisterling@gmail.com">Email</a>
+  <a href="https://linkedin.com/in/santisterling">
+    <img src="https://img.shields.io/badge/LinkedIn-Santiago%20Sterling-0A66C2?style=flat-square&logo=linkedin"/>
+  </a>
+  <a href="mailto:santisterling@gmail.com">
+    <img src="https://img.shields.io/badge/Email-santisterling@gmail.com-555555?style=flat-square&logo=gmail"/>
+  </a>
 </p>
+
+
+
