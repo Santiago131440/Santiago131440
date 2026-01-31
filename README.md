@@ -65,7 +65,7 @@ Creo interfaces limpias, modernas y funcionales, pensadas para verse bien tanto 
 
 ## Objetivo actual
 
-Especializarme en **Inteligencia Artificial** y **Data-driven software**, creando soluciones modernas que conecten datos, procesos y personas.
+Diseñar y desarrollar soluciones web modernas, escalables y mantenibles, con backends robustos, orientados a datos y preparados para crecimiento, integrando servicios, APIs y bases de datos optimizadas, que impulsen la eficiencia operativa, la toma de decisiones informadas y la creación de valor real para los usuarios y el negocio.
 
 ---
 
