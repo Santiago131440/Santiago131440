@@ -112,7 +112,7 @@ Diseñar y desarrollar soluciones web modernas, escalables y mantenibles, con ba
 
 ## Contacto
 
-### Abierto a conversaciones estratégicas, alianzas profesionales y proyectos donde la tecnología sea un habilitador clave del crecimiento.
+### Abierto a conversaciones estratégicas, alianzas profesionales y proyectos donde la tecnología sea un habilitador clave del crecimiento, contáctame.
 
 <p align="center">
   <a href="https://linkedin.com/in/santisterling">
