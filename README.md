@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>Software • Datos • Frontend • Backend • Integración</b><br/>
-  Tecnología bien pensada, simple y funcional.
+  Tecnología bien diseñada, simple y funcional.
 </p>
 
 ---
