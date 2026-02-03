@@ -101,15 +101,8 @@ Creo interfaces limpias, modernas y funcionales, pensadas para verse bien tanto 
 Diseñar y desarrollar soluciones web modernas, escalables y mantenibles, con backends robustos, orientados a datos y preparados para crecimiento, integrando servicios, APIs y bases de datos optimizadas, que impulsen la eficiencia operativa, la toma de decisiones informadas y la creación de valor real para los usuarios y el negocio.
 
 <p align="center">
-  <img 
-    src="https://cdn.pixabay.com/photo/2021/08/04/13/06/software-developer-6521720_1280.jpg" 
-    alt="Software Developer Illustration"
-    width="80%"
-    style="max-width:700px; border-radius:12px; box-shadow:0 8px 20px rgba(0,0,0,0.15);"
-  />
+  <img src="https://cdn.pixabay.com/photo/2021/08/04/13/06/software-developer-6521720_1280.jpg" width="700"/>
 </p>
-
-
 
 ---
 
