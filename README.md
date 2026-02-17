@@ -21,6 +21,10 @@
 
 ## Mi enfoque
 
+<p align="center">
+  <img src="https://github.com/Santiago131440/Imagenes-Comparaci-n-de-datos/blob/main/Enfoque.jpg?raw=true"/>
+</p>
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -71,9 +75,7 @@ Interfaces modernas, limpias y funcionales.
 </tr>
 </table>
 
-
 ---
-
 
 ## Diseño y tecnología
 <p align="center">
