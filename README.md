@@ -99,7 +99,7 @@ Creo interfaces limpias, modernas y funcionales, pensadas para verse bien tanto 
 ## Objetivo actual
 
 <p align="center">
-  <img src="https://github.com/Santiago131440/Imagenes-Comparaci-n-de-datos/blob/main/Captura%20de%20pantalla%202026-02-16%20215257.jpg?raw=true" width="700"/>
+  <img src="https://github.com/Santiago131440/Imagenes-Comparaci-n-de-datos/blob/main/Captura%20de%20pantalla%202026-02-16%20215257.jpg?raw=true" width="900"/>
 </p>
 
 ---
@@ -116,6 +116,10 @@ Creo interfaces limpias, modernas y funcionales, pensadas para verse bien tanto 
 
 ### Abierto a conversaciones estratégicas, alianzas profesionales y proyectos donde la tecnología sea un habilitador clave del crecimiento, contáctame.
 
+
+<p align="center">
+  <img src="https://github.com/Santiago131440/Imagenes-Comparaci-n-de-datos/blob/main/Contactame.jpg?raw=true" width="780"/>
+</p>
 <p align="center">
   <a href="https://linkedin.com/in/santisterling">
     <img src="https://img.shields.io/badge/LinkedIn-Santiago%20Sterling-0A66C2?style=flat-square&logo=linkedin"/>
