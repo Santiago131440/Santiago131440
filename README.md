@@ -82,7 +82,7 @@ Interfaces modernas, limpias y funcionales.
 Creo interfaces limpias, modernas y funcionales, pensadas para verse bien tanto en desktop como en móvil.
 <br>
 <br>
-  <img src="https://github.com/Santiago131440/Imagenes-Comparaci-n-de-datos/blob/main/Perfil%20Sterling.jpg?raw=true" width="180"/>
+  <img src="https://github.com/Santiago131440/Imagenes-Comparaci-n-de-datos/blob/main/Perfil%20Sterling.jpg?raw=true" width="180"/><br>
   <img src="https://github.com/Santiago131440/Imagenes-Comparaci-n-de-datos/blob/main/SterlingMusicPC2.jpg?raw=true" width="580"/>
   <img src="https://github.com/Santiago131440/Imagenes-Comparaci-n-de-datos/blob/main/SterlingMusicMovil1.jpeg?raw=true" width="180"/>
 </p>
