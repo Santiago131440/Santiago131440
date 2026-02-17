@@ -98,10 +98,8 @@ Creo interfaces limpias, modernas y funcionales, pensadas para verse bien tanto 
 
 ## Objetivo actual
 
-Diseñar y desarrollar soluciones web modernas, escalables y mantenibles, con backends robustos, orientados a datos y preparados para crecimiento, integrando servicios, APIs y bases de datos optimizadas, que impulsen la eficiencia operativa, la toma de decisiones informadas y la creación de valor real para los usuarios y el negocio.
-
 <p align="center">
-  <img src="https://cdn.pixabay.com/photo/2021/08/04/13/06/software-developer-6521720_1280.jpg" width="700"/>
+  <img src="https://github.com/Santiago131440/Imagenes-Comparaci-n-de-datos/blob/main/Captura%20de%20pantalla%202026-02-16%20215257.jpg?raw=true" width="700"/>
 </p>
 
 ---
