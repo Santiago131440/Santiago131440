@@ -109,7 +109,7 @@ Creo interfaces limpias, modernas y funcionales, pensadas para verse bien tanto 
 ## Colaboraciones
 
 <p align="center">
-  <img src="https://github.com/Santiago131440/Imagenes-Comparaci-n-de-datos/blob/main/Colaboraciones.jpg?raw=true" width="280"/>
+  <img src="https://github.com/Santiago131440/Imagenes-Comparaci-n-de-datos/blob/main/Colaboraciones1.jpg?raw=true" width="580"/>
 </p>
 
 ---
