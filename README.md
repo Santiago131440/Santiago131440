@@ -112,17 +112,14 @@ Creo interfaces limpias, modernas y funcionales, pensadas para verse bien tanto 
   <img src="https://github.com/Santiago131440/Imagenes-Comparaci-n-de-datos/blob/main/Colaboraciones1.jpg?raw=true" width="580"/>
 </p>
 
-<h1 align="center">🚀 Nombre del Proyecto</h1>
 <p align="center">
-  Plataforma moderna con diseño premium, alto rendimiento y arquitectura escalable.
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/USUARIO/REPO?style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/USUARIO/REPO?style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/USUARIO/REPO?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/USUARIO/REPO?style=for-the-badge">
-</p>
 
 
 ---
