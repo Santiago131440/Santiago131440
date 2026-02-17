@@ -112,6 +112,19 @@ Creo interfaces limpias, modernas y funcionales, pensadas para verse bien tanto 
   <img src="https://github.com/Santiago131440/Imagenes-Comparaci-n-de-datos/blob/main/Colaboraciones1.jpg?raw=true" width="580"/>
 </p>
 
+<h1 align="center">🚀 Nombre del Proyecto</h1>
+<p align="center">
+  Plataforma moderna con diseño premium, alto rendimiento y arquitectura escalable.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/USUARIO/REPO?style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/USUARIO/REPO?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/USUARIO/REPO?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/USUARIO/REPO?style=for-the-badge">
+</p>
+
+
 ---
 
 ## Contacto
