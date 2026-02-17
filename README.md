@@ -115,8 +115,6 @@ Creo interfaces limpias, modernas y funcionales, pensadas para verse bien tanto 
 
 ## Contacto
 
-### Abierto a conversaciones estratégicas, alianzas profesionales y proyectos donde la tecnología sea un habilitador clave del crecimiento, contáctame.
-
 
 <p align="center">
   <img src="https://github.com/Santiago131440/Imagenes-Comparaci-n-de-datos/blob/main/Contactame.jpg?raw=true" width="780"/>
