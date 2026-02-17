@@ -113,8 +113,6 @@ Creo interfaces limpias, modernas y funcionales, pensadas para verse bien tanto 
 </p>
 
 
----
-
 ## Contacto
 
 ### Abierto a conversaciones estratégicas, alianzas profesionales y proyectos donde la tecnología sea un habilitador clave del crecimiento, contáctame.
