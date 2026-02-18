@@ -9,15 +9,11 @@
   Tecnología bien diseñada, simple y funcional.
 </p>
 
----
-
 ## Sobre mí
 
 <p align="center">
   <img src="https://github.com/Santiago131440/Imagenes-Comparaci-n-de-datos/blob/main/Sobre%20mi.jpg?raw=true" width="860"/>
 </p>
-
----
 
 ## Mi enfoque
 
@@ -75,8 +71,6 @@ Interfaces modernas, limpias y funcionales.
 </tr>
 </table>
 
----
-
 ## Diseño y tecnología
 <p align="center">
 Creo interfaces limpias, modernas y funcionales, pensadas para verse bien tanto en desktop como en móvil.
@@ -87,16 +81,11 @@ Creo interfaces limpias, modernas y funcionales, pensadas para verse bien tanto 
   <img src="https://github.com/Santiago131440/Imagenes-Comparaci-n-de-datos/blob/main/SterlingMusicMovil1.jpeg?raw=true" width="180"/>
 </p>
 
----
-
-
 ## Tecnologías
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,figma,mysql,git,docker,django,tailwind"/>
 </p>
-
----
 
 ## Objetivo actual
 
@@ -104,17 +93,13 @@ Creo interfaces limpias, modernas y funcionales, pensadas para verse bien tanto 
   <img src="https://github.com/Santiago131440/Imagenes-Comparaci-n-de-datos/blob/main/Captura%20de%20pantalla%202026-02-16%20215257.jpg?raw=true" width="900"/>
 </p>
 
----
-
 ## Colaboraciones
 
 <p align="center">
   <img src="https://github.com/Santiago131440/Imagenes-Comparaci-n-de-datos/blob/main/Colaboraciones1.jpg?raw=true" width="580"/>
 </p>
 
-
 ## Contacto
-
 
 <p align="center">
   <img src="https://github.com/Santiago131440/Imagenes-Comparaci-n-de-datos/blob/main/Contactame.jpg?raw=true" width="780"/>
@@ -127,6 +112,3 @@ Creo interfaces limpias, modernas y funcionales, pensadas para verse bien tanto 
     <img src="https://img.shields.io/badge/Email-santisterling@gmail.com-555555?style=flat-square&logo=gmail"/>
   </a>
 </p>
-
-
-
