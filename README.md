@@ -1,56 +1,75 @@
+<!-- ═══════════════════════════ ENCABEZADO ANIMADO ═══════════════════════════ -->
 <p align="center">
-  <img src="https://github.com/Santiago131440/Imagenes-Comparaci-n-de-datos/blob/main/Pantalla%20principal.jpg?raw=true" width="460" alt="Santiago Sterling"/>
-</p>
-
-<h1 align="center">Santiago Sterling</h1>
-
-<p align="center">
-  <b>Software · Datos · Business Intelligence · Automatización · IA aplicada</b><br/>
-  Convierto datos de operación en decisiones, y procesos manuales en software.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d366b,50:2a78d6,100:6250d6&height=220&section=header&text=Santiago%20Sterling&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Software%20·%20Datos%20·%20BI%20·%20Automatización%20·%20IA&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Santiago Sterling"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/Santiago131440">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3200&pause=900&color=2A78D6&center=true&vCenter=true&width=620&lines=9+a%C3%B1os+en+entornos+industriales;Analista+de+datos+y+BI;Desarrollador+Full+Stack;Automatizaci%C3%B3n+e+IA+aplicada+a+operaciones" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=800&color=2A78D6&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Convierto+datos+de+operaci%C3%B3n+en+decisiones+%F0%9F%93%8A;Automatizo+procesos+manuales+con+software+%E2%9A%99%EF%B8%8F;9+a%C3%B1os+de+experiencia+en+entornos+industriales+%F0%9F%8F%AD;Full+Stack+%2B+Business+Intelligence+%2B+IA+%F0%9F%A4%96" alt="Typing SVG"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/santisterling"><img src="https://img.shields.io/badge/LinkedIn-Santiago%20Sterling-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:santisterling@gmail.com"><img src="https://img.shields.io/badge/Email-santisterling@gmail.com-1d2433?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Disponible-Remoto-16803c?style=flat-square"/>
+  <a href="https://linkedin.com/in/santisterling"><img src="https://img.shields.io/badge/LinkedIn-Santiago%20Sterling-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:santisterling@gmail.com"><img src="https://img.shields.io/badge/Email-Escríbeme-1d2433?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Disponible-Remoto-16803c?style=for-the-badge&logo=googlemeet&logoColor=white"/>
+  <img src="https://komarev.com/ghpvc/?username=Santiago131440&style=for-the-badge&color=2a78d6&label=VISITAS" alt="Visitas"/>
 </p>
 
 ---
 
-## Sobre mí
+## 👨‍💻 Sobre mí
 
-<p align="center">
-  <img src="https://github.com/Santiago131440/Imagenes-Comparaci-n-de-datos/blob/main/Sobre%20mi.jpg?raw=true" width="860" alt="Sobre mí"/>
-</p>
+```python
+class SantiagoSterling:
+    rol         = "Analista de Producción y Datos · Desarrollador de Software"
+    experiencia = "≈ 9 años en entornos industriales"
+    formacion   = [
+        "Tecnólogo en Análisis y Desarrollo de Software — SENA",
+        "Tecnólogo en Gestión de la Producción Industrial — SENA",
+        "Diplomado en Gerencia de Producción — SENA",
+    ]
+    sectores    = ["Bebidas", "Consumo masivo", "Empaques", "Farmacéutica", "Agroindustria"]
+    enfoque     = "datos → limpieza → análisis → patrones → diagnóstico → KPI → visualización → decisión → automatización"
+    objetivo    = "IA, automatización y BI aplicados a negocios y operaciones industriales"
 
-Soy **Tecnólogo en Análisis y Desarrollo de Software** y **Tecnólogo en Gestión de la Producción Industrial** (SENA), con **Diplomado en Gerencia de Producción**. Tengo cerca de **9 años de experiencia en planta**, en compañías como Coca-Cola FEMSA, Postobón, Smurfit Westrock, Laboratorios OSA, Cadena S.A. y Cosmoagro.
+    def diferencial(self):
+        return "Conozco el piso de planta por dentro y lo traduzco a software y datos."
+```
 
-Esa experiencia es mi diferencial. Conozco el piso de producción por dentro: los paros, el cumplimiento del plan y los reportes del ERP. Por eso construyo herramientas que **resuelven problemas reales de la operación**, no solo gráficos bonitos.
+> 💡 No me quedo en describir cifras: busco **patrones, anomalías, causas y oportunidades**, y las convierto en recomendaciones que se pueden ejecutar.
 
-```text
-datos → limpieza → análisis → patrones → diagnóstico → KPI → visualización → decisión → automatización
+---
+
+## 🔄 Cómo trabajo
+
+```mermaid
+flowchart LR
+    A[(📥 Datos<br/>ERP · Excel · SQL)] --> B[🧹 Limpieza]
+    B --> C[🔍 Análisis<br/>y patrones]
+    C --> D[🩺 Diagnóstico]
+    D --> E[🎯 KPI]
+    E --> F[📊 Visualización<br/>Power BI · Web]
+    F --> G{✅ Decisión}
+    G --> H[🤖 Automatización]
+    H -. mejora continua .-> A
+
+    style A fill:#0d366b,stroke:#2a78d6,color:#fff
+    style E fill:#2a78d6,stroke:#0d366b,color:#fff
+    style G fill:#16803c,stroke:#0ca30c,color:#fff
+    style H fill:#6250d6,stroke:#4a3bb0,color:#fff
 ```
 
 ---
 
-## Mi enfoque
-
-<p align="center">
-  <img src="https://github.com/Santiago131440/Imagenes-Comparaci-n-de-datos/blob/main/Enfoque.jpg?raw=true" alt="Mi enfoque"/>
-</p>
+## 🧭 Mi enfoque
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 📊 Análisis de datos y BI
-No me quedo en describir cifras. Busco **patrones, anomalías, causas y oportunidades**, y las convierto en recomendaciones accionables.
+Visualización clara y orientada a decisiones.
 
 - KPI de producción: cumplimiento, paradas, disponibilidad
 - Dashboards ejecutivos en **Power BI** (DAX, modelado)
@@ -60,10 +79,10 @@ No me quedo en describir cifras. Busco **patrones, anomalías, causas y oportuni
 <td width="50%" valign="top">
 
 ### ⚙️ Desarrollo de software
-Sistemas internos pensados para escalar y mantenerse en el tiempo.
+Sistemas pensados para escalar y mantenerse en el tiempo.
 
 - Aplicaciones web full stack y APIs REST
-- Integración con ERP y reportes (Siesa)
+- Integración con ERP y reportes
 - Arquitectura limpia, código mantenible
 
 </td>
@@ -72,11 +91,11 @@ Sistemas internos pensados para escalar y mantenerse en el tiempo.
 <td width="50%" valign="top">
 
 ### 🤖 Automatización e IA
-Aplicación práctica de IA y automatización en procesos reales.
+IA aplicada a problemas reales.
 
 - ETL y cargues automáticos de reportes
 - Análisis predictivo con Scikit-learn
-- Agentes e integración con sistemas existentes
+- Agentes integrados a sistemas existentes
 
 </td>
 <td width="50%" valign="top">
@@ -85,7 +104,7 @@ Aplicación práctica de IA y automatización en procesos reales.
 Interfaces premium, minimalistas y funcionales.
 
 - Responsive, con modo claro y oscuro
-- Glassmorphism, animaciones sutiles y buena UX
+- Glassmorphism y animaciones sutiles
 - HTML, CSS y JavaScript vanilla, o un framework cuando el proyecto lo pide
 
 </td>
@@ -94,46 +113,60 @@ Interfaces premium, minimalistas y funcionales.
 
 ---
 
-## Proyectos destacados
+## 🚀 Proyectos destacados
 
-| Proyecto | Qué resuelve | Stack |
-|---|---|---|
-| **Sistema de indicadores de producción** | Consolida planes semanales y reportes del ERP Siesa. Calcula % de cumplimiento, % de tiempo de paradas y Pareto de centros y motivos de paro, y genera tablas listas para Power BI. | Python · openpyxl · Tkinter · Power BI |
-| **Quantix** | SaaS de gestión empresarial e inventarios para PYMEs. | Web full stack · SQL |
-| **Sterling String** | Mi marca de proyectos web interactivos: portafolios, dashboards, simuladores y juegos. | HTML · CSS · JavaScript |
+<details open>
+<summary><b>🏭 Sistema de indicadores de producción</b> — Python · Power BI</summary>
+<br/>
+
+Consolida los planes semanales y los reportes del ERP en una sola base y calcula automáticamente:
+
+- ✅ **% de cumplimiento al plan** y de producción
+- ⏱️ **% de tiempo de paradas** y disponibilidad por centro de trabajo
+- 📉 **Pareto** de centros y motivos de paro, con lectura automática del mes
+- 📦 Tablas listas para **Power BI**, con medidas DAX documentadas
+
+`Python` `openpyxl` `Tkinter` `Power BI` `DAX`
+</details>
+
+<details>
+<summary><b>📦 Quantix</b> — SaaS de inventarios para PYMEs</summary>
+<br/>
+
+Plataforma de gestión empresarial e inventarios pensada para pequeñas y medianas empresas: control de stock, movimientos y reportes.
+
+`Full Stack` `SQL` `SaaS`
+</details>
+
+<details>
+<summary><b>🎨 Sterling String</b> — marca de proyectos web interactivos</summary>
+<br/>
+
+Portafolios, dashboards, simuladores y juegos con estética premium, modo claro y oscuro, y animaciones fluidas.
+
+`HTML` `CSS` `JavaScript`
+</details>
 
 ---
 
-## Diseño y tecnología
+## 🛠️ Stack tecnológico
 
-<p align="center">
-  Creo interfaces limpias, modernas y funcionales, pensadas para verse bien en desktop y en móvil.
-  <br/><br/>
-  <img src="https://github.com/Santiago131440/Imagenes-Comparaci-n-de-datos/blob/main/Perfil%20Sterling.jpg?raw=true" width="180" alt="Perfil Sterling"/><br/>
-  <img src="https://github.com/Santiago131440/Imagenes-Comparaci-n-de-datos/blob/main/SterlingMusicPC2.jpg?raw=true" width="580" alt="Sterling Music en escritorio"/><br/>
-  <img src="https://github.com/Santiago131440/Imagenes-Comparaci-n-de-datos/blob/main/SterlingMusicMovil1.jpeg?raw=true" width="180" alt="Sterling Music en móvil"/>
-</p>
-
----
-
-## Stack tecnológico
-
-<h4 align="center">Frontend</h4>
+<h4 align="center">🎨 Frontend</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,angular,tailwind,figma&perline=10" alt="Frontend"/>
 </p>
 
-<h4 align="center">Backend y bases de datos</h4>
+<h4 align="center">🧩 Backend y bases de datos</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,java,spring,cs,dotnet,mysql,postgres,redis&perline=11" alt="Backend"/>
 </p>
 
-<h4 align="center">Cloud y DevOps</h4>
+<h4 align="center">☁️ Cloud y DevOps</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,githubactions,git,github,postman,vscode&perline=10" alt="Cloud y DevOps"/>
 </p>
 
-<h4 align="center">Datos y Business Intelligence</h4>
+<h4 align="center">📈 Datos y Business Intelligence</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=black"/>
   <img src="https://img.shields.io/badge/DAX-1d2433?style=for-the-badge"/>
@@ -147,47 +180,64 @@ Interfaces premium, minimalistas y funcionales.
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
 </p>
 
 ---
 
-## Objetivo actual
+## 📊 Actividad en GitHub
 
 <p align="center">
-  <img src="https://github.com/Santiago131440/Imagenes-Comparaci-n-de-datos/blob/main/Captura%20de%20pantalla%202026-02-16%20215257.jpg?raw=true" width="900" alt="Objetivo actual"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Santiago131440&show_icons=true&hide_border=true&bg_color=0d1117&title_color=2A78D6&icon_color=6250d6&text_color=c9d1d9&rank_icon=github&count_private=true" height="170" alt="Estadísticas"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santiago131440&layout=compact&hide_border=true&bg_color=0d1117&title_color=2A78D6&text_color=c9d1d9" height="170" alt="Lenguajes"/>
 </p>
 
-Especializarme en **datos, automatización e Inteligencia Artificial aplicada a negocios y operaciones industriales**. Estoy abierto a oportunidades **remotas** en desarrollo de software, análisis de datos, BI y automatización, y a construir productos digitales propios.
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Santiago131440&hide_border=true&background=0d1117&ring=2A78D6&fire=6250d6&currStreakLabel=2A78D6&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="Racha de contribuciones"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Santiago131440&bg_color=0d1117&color=c9d1d9&line=2A78D6&point=6250d6&area=true&area_color=2A78D6&hide_border=true&radius=8" width="100%" alt="Gráfico de actividad"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Santiago131440&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=12" alt="Trofeos"/>
+</p>
+
+<!-- Se activa con el workflow .github/workflows/snake.yml (ver instrucciones) -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Santiago131440/Santiago131440/output/github-snake-dark.svg"/>
+    <img src="https://raw.githubusercontent.com/Santiago131440/Santiago131440/output/github-snake.svg" alt="Serpiente de contribuciones"/>
+  </picture>
+</p>
 
 ---
 
-## Colaboraciones
+## 🎯 Objetivo actual
 
 <p align="center">
-  <img src="https://github.com/Santiago131440/Imagenes-Comparaci-n-de-datos/blob/main/Colaboraciones1.jpg?raw=true" width="580" alt="Colaboraciones"/>
-  <img src="https://github.com/Santiago131440/Imagenes-Comparaci-n-de-datos/blob/main/Colaboraciones2.jpg?raw=true" width="900" alt="Colaboraciones"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=3500&pause=1000&color=6250D6&center=true&vCenter=true&width=760&lines=Especializarme+en+datos%2C+automatizaci%C3%B3n+e+Inteligencia+Artificial;Aplicada+a+negocios+y+operaciones+industriales;Abierto+a+oportunidades+remotas+en+Software%2C+Datos+y+BI" alt="Objetivo"/>
 </p>
+
+| 🔭 Ahora mismo | 🌱 Aprendiendo | 🤝 Abierto a |
+|:---:|:---:|:---:|
+| Indicadores de producción con Python + Power BI | IA aplicada y agentes | Trabajo remoto |
+| Quantix (SaaS para PYMEs) | Machine Learning para operaciones | Colaboraciones en datos y software |
+| Proyectos web de Sterling String | Arquitectura cloud | Productos digitales propios |
 
 ---
 
-## Actividad en GitHub
+## 📫 Contacto
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Santiago131440&show_icons=true&hide_border=true&bg_color=00000000&title_color=2A78D6&icon_color=2A78D6&text_color=5b6472&rank_icon=github" height="165" alt="Estadísticas de GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santiago131440&layout=compact&hide_border=true&bg_color=00000000&title_color=2A78D6&text_color=5b6472" height="165" alt="Lenguajes más usados"/>
+  <a href="https://linkedin.com/in/santisterling"><img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:santisterling@gmail.com"><img src="https://img.shields.io/badge/Gmail-santisterling@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Santiago131440"><img src="https://img.shields.io/badge/GitHub-Santiago131440-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
----
-
-## Contacto
-
+<!-- ═══════════════════════════ PIE ANIMADO ═══════════════════════════ -->
 <p align="center">
-  <img src="https://github.com/Santiago131440/Imagenes-Comparaci-n-de-datos/blob/main/Contactame.jpg?raw=true" width="780" alt="Contáctame"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6250d6,50:2a78d6,100:0d366b&height=130&section=footer&text=Tecnología%20bien%20diseñada,%20simple%20y%20funcional&fontSize=20&fontColor=ffffff&fontAlignY=68&animation=twinkling" width="100%" alt="Pie"/>
 </p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/santisterling"><img src="https://img.shields.io/badge/LinkedIn-Santiago%20Sterling-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:santisterling@gmail.com"><img src="https://img.shields.io/badge/Email-santisterling@gmail.com-1d2433?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
-<p align="center"><sub>Tecnología bien diseñada, simple y funcional.</sub></p>
