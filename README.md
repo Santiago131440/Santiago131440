@@ -158,7 +158,7 @@ Portafolios, dashboards, simuladores y juegos con estética premium, modo claro 
 
 <h4 align="center">Backend y bases de datos</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,java,spring,cs,dotnet,mysql,postgres,redis&perline=11" alt="Backend"/>
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,cs,dotnet,mysql,postgres,redis&perline=11" alt="Backend"/>
 </p>
 
 <h4 align="center">Cloud y DevOps</h4>
