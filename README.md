@@ -18,7 +18,7 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+## Sobre mí
 
 ```python
 class SantiagoSterling:
@@ -37,21 +37,21 @@ class SantiagoSterling:
         return "Conozco el piso de planta por dentro y lo traduzco a software y datos."
 ```
 
-> 💡 No me quedo en describir cifras: busco **patrones, anomalías, causas y oportunidades**, y las convierto en recomendaciones que se pueden ejecutar.
+> No me quedo en describir cifras: busco **patrones, anomalías, causas y oportunidades**, y las convierto en recomendaciones que se pueden ejecutar.
 
 ---
 
-## 🔄 Cómo trabajo
+## Cómo trabajo
 
 ```mermaid
 flowchart LR
-    A[(📥 Datos<br/>ERP · Excel · SQL)] --> B[🧹 Limpieza]
-    B --> C[🔍 Análisis<br/>y patrones]
-    C --> D[🩺 Diagnóstico]
-    D --> E[🎯 KPI]
-    E --> F[📊 Visualización<br/>Power BI · Web]
-    F --> G{✅ Decisión}
-    G --> H[🤖 Automatización]
+    A[(Datos<br/>ERP · Excel · SQL)] --> B[Limpieza]
+    B --> C[Análisis<br/>y patrones]
+    C --> D[Diagnóstico]
+    D --> E[KPI]
+    E --> F[Visualización<br/>Power BI · Web]
+    F --> G{Decisión}
+    G --> H[Automatización]
     H -. mejora continua .-> A
 
     style A fill:#0d366b,stroke:#2a78d6,color:#fff
@@ -62,13 +62,13 @@ flowchart LR
 
 ---
 
-## 🧭 Mi enfoque
+## Mi enfoque
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📊 Análisis de datos y BI
+### Análisis de datos y BI
 Visualización clara y orientada a decisiones.
 
 - KPI de producción: cumplimiento, paradas, disponibilidad
@@ -78,7 +78,7 @@ Visualización clara y orientada a decisiones.
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ Desarrollo de software
+### Desarrollo de software
 Sistemas pensados para escalar y mantenerse en el tiempo.
 
 - Aplicaciones web full stack y APIs REST
@@ -90,7 +90,7 @@ Sistemas pensados para escalar y mantenerse en el tiempo.
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Automatización e IA
+### Automatización e IA
 IA aplicada a problemas reales.
 
 - ETL y cargues automáticos de reportes
@@ -100,7 +100,7 @@ IA aplicada a problemas reales.
 </td>
 <td width="50%" valign="top">
 
-### ✨ Diseño y web
+### Diseño y web
 Interfaces premium, minimalistas y funcionales.
 
 - Responsive, con modo claro y oscuro
@@ -113,24 +113,24 @@ Interfaces premium, minimalistas y funcionales.
 
 ---
 
-## 🚀 Proyectos destacados
+## Proyectos destacados
 
 <details open>
-<summary><b>🏭 Sistema de indicadores de producción</b> — Python · Power BI</summary>
+<summary><b>Sistema de indicadores de producción</b> — Python · Power BI</summary>
 <br/>
 
 Consolida los planes semanales y los reportes del ERP en una sola base y calcula automáticamente:
 
-- ✅ **% de cumplimiento al plan** y de producción
-- ⏱️ **% de tiempo de paradas** y disponibilidad por centro de trabajo
-- 📉 **Pareto** de centros y motivos de paro, con lectura automática del mes
-- 📦 Tablas listas para **Power BI**, con medidas DAX documentadas
+- **% de cumplimiento al plan** y de producción
+- **% de tiempo de paradas** y disponibilidad por centro de trabajo
+- **Pareto** de centros y motivos de paro, con lectura automática del mes
+- Tablas listas para **Power BI**, con medidas DAX documentadas
 
 `Python` `openpyxl` `Tkinter` `Power BI` `DAX`
 </details>
 
 <details>
-<summary><b>📦 Quantix</b> — SaaS de inventarios para PYMEs</summary>
+<summary><b>Quantix</b> — SaaS de inventarios para PYMEs</summary>
 <br/>
 
 Plataforma de gestión empresarial e inventarios pensada para pequeñas y medianas empresas: control de stock, movimientos y reportes.
@@ -139,7 +139,7 @@ Plataforma de gestión empresarial e inventarios pensada para pequeñas y median
 </details>
 
 <details>
-<summary><b>🎨 Sterling String</b> — marca de proyectos web interactivos</summary>
+<summary><b>Sterling String</b> — marca de proyectos web interactivos</summary>
 <br/>
 
 Portafolios, dashboards, simuladores y juegos con estética premium, modo claro y oscuro, y animaciones fluidas.
@@ -149,24 +149,24 @@ Portafolios, dashboards, simuladores y juegos con estética premium, modo claro 
 
 ---
 
-## 🛠️ Stack tecnológico
+## Stack tecnológico
 
-<h4 align="center">🎨 Frontend</h4>
+<h4 align="center">Frontend</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,angular,tailwind,figma&perline=10" alt="Frontend"/>
 </p>
 
-<h4 align="center">🧩 Backend y bases de datos</h4>
+<h4 align="center">Backend y bases de datos</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,java,spring,cs,dotnet,mysql,postgres,redis&perline=11" alt="Backend"/>
 </p>
 
-<h4 align="center">☁️ Cloud y DevOps</h4>
+<h4 align="center">Cloud y DevOps</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,githubactions,git,github,postman,vscode&perline=10" alt="Cloud y DevOps"/>
 </p>
 
-<h4 align="center">📈 Datos y Business Intelligence</h4>
+<h4 align="center">Datos y Business Intelligence</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=black"/>
   <img src="https://img.shields.io/badge/DAX-1d2433?style=for-the-badge"/>
@@ -186,7 +186,7 @@ Portafolios, dashboards, simuladores y juegos con estética premium, modo claro 
 
 ---
 
-## 📊 Actividad en GitHub
+## Actividad en GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Santiago131440&show_icons=true&hide_border=true&bg_color=0d1117&title_color=2A78D6&icon_color=6250d6&text_color=c9d1d9&rank_icon=github&count_private=true" height="170" alt="Estadísticas"/>
@@ -215,13 +215,13 @@ Portafolios, dashboards, simuladores y juegos con estética premium, modo claro 
 
 ---
 
-## 🎯 Objetivo actual
+## Objetivo actual
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=3500&pause=1000&color=6250D6&center=true&vCenter=true&width=760&lines=Especializarme+en+datos%2C+automatizaci%C3%B3n+e+Inteligencia+Artificial;Aplicada+a+negocios+y+operaciones+industriales;Abierto+a+oportunidades+remotas+en+Software%2C+Datos+y+BI" alt="Objetivo"/>
 </p>
 
-| 🔭 Ahora mismo | 🌱 Aprendiendo | 🤝 Abierto a |
+| Ahora mismo | Aprendiendo | Abierto a |
 |:---:|:---:|:---:|
 | Indicadores de producción con Python + Power BI | IA aplicada y agentes | Trabajo remoto |
 | Quantix (SaaS para PYMEs) | Machine Learning para operaciones | Colaboraciones en datos y software |
@@ -229,7 +229,7 @@ Portafolios, dashboards, simuladores y juegos con estética premium, modo claro 
 
 ---
 
-## 📫 Contacto
+## Contacto
 
 <p align="center">
   <a href="https://linkedin.com/in/santisterling"><img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
